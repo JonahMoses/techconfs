@@ -15,6 +15,11 @@ ActiveRecord::Schema.define(version: 20141126031619) do
 
   create_table "conferences", force: true do |t|
     t.string   "name"
+    t.string   "location"
+    t.string   "dates"
+    t.string   "url"
+    t.string   "twitter"
+    t.string   "reg_phase"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
