@@ -1,1 +1,20 @@
 TechConfs
+
+Easily locate/discover technical conferences based on various search criteria:
+-Locations (State(s), Country(ies), Regions)
+-Topics (Ruby, Rails, JavaScript, Node, etc)
+-Timing (Next 1 yr, 1month, etc)
+
+View detailed information about conferences (as much information as I can get):
+-Dates (Of Conference, when CFP opens/closes, when registration opens/closes)
+-Topics
+-Speakers
+-Near by hotels
+-Sponsors
+-Costs
+-Best of …. (a list of talks at a conf that are voted to be the best). -AR
+-Historical, all above information plus:
+-Attendance
+-Reviews
+-Links to the talks
+
